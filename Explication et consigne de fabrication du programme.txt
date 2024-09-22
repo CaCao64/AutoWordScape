@@ -1,0 +1,6 @@
+1.Dictionnaire
+	1.1Créer un dictionnaire avec tous les mots.
+2.Liste
+	2.1.Créer une liste avec les lettres du niveau.
+	2.2.Faire des combinaisons avec ces lettres.
+	2.3.Vérifier si la combinaison existe dans le dictionnaire.
